@@ -1,0 +1,4 @@
+com\wl\hdfs\DataSortApp.class
+com\wl\hdfs\DataSortApp$Map.class
+com\wl\hdfs\DataSortApp$Reduce.class
+com\wl\hdfs\mapreduce.class
